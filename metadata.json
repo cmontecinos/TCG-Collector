@@ -1,0 +1,7 @@
+{
+  "name": "Mitos y Leyendas Collector",
+  "description": "A powerful digital vault for your 'Mitos y Leyendas' card collection. Scan photos of your cards to automatically catalog them and fetch deep metadata using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
